@@ -16,7 +16,7 @@ framework, so you're free to architect your code in the way that you want.
 
 
 
-hellooooo
+hello there. My name is Sama and I study communications and media...
 
 ## Quick start
 
